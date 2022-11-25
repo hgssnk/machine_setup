@@ -20,6 +20,7 @@
   - [VMware Fusion](https://www.vmware.com/jp/products/fusion/fusion-evaluation.html)
   - [VMware ESXi](https://docs.vmware.com/jp/VMware-vSphere/6.5/com.vmware.vsphere.install.doc/GUID-016E39C1-E8DB-486A-A235-55CAB242C351.html)
   - [AutoHotkey](https://www.autohotkey.com/)
+  - [Android Studio](https://developer.android.com/studio/install?hl=ja)
 - Entertainment
   - [Kindle](https://www.amazon.co.jp/Kindle-for-PC-Windows-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/dp/B011UEHYWQ/ref=sr_1_1?adgrpid=115476798132&gclid=CjwKCAiA7IGcBhA8EiwAFfUDsYsl-dZBpTWZvNTexJVeM0JzXJhnxf_VlJHWS5rQ6CyYPP8-cJb7uxoC8lMQAvD_BwE&hvadid=618616145209&hvdev=c&hvlocphy=1009233&hvnetw=g&hvqmt=b&hvrand=7534346880416074715&hvtargid=kwd-985268843972&hydadcr=9525_13606125&jp-ad-ap=0&keywords=kindle%2Bfor%2Bwindows%2B%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89&qid=1669395560&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-1&th=1)
   - [GEFORCE NOW](https://cloudgaming.mb.softbank.jp/download/)
@@ -42,6 +43,7 @@
   - [Cisco Packet Tracer](https://www.infraexpert.com/info/packettracer02.html)
   - [VMware Fusion](https://www.vmware.com/jp/products/fusion/fusion-evaluation.html)
   - [VMware ESXi](https://docs.vmware.com/jp/VMware-vSphere/6.5/com.vmware.vsphere.install.doc/GUID-016E39C1-E8DB-486A-A235-55CAB242C351.html)
+  - [Android Studio](https://developer.android.com/studio/install?hl=ja)
 - Entertainment
   - [Kindle](https://www.amazon.co.jp/Amazon-com-Intl-Sales-Inc-Kindle/dp/B011UEIO4S)
   - [GEFORCE NOW](https://cloudgaming.mb.softbank.jp/download/)
