@@ -1,7 +1,7 @@
 # Windows Setup
 - Development
-  - [Chrome](https://www.google.com/intl/ja/chrome/)
-    - [Shortkeys](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck) setting-url: chrome://extensions/shortcuts
+  - ~~[Chrome](https://www.google.com/intl/ja/chrome/)~~ [Brave](https://brave.com/ja/)
+    - [Shortkeys](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck) setting-url: brave://extensions/shortcuts
     - [VideoSpeedController](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
     - [DuckDuckGo](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg?hl=ja)
     - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
